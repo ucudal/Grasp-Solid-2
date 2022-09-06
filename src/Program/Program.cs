@@ -73,3 +73,7 @@ namespace Full_GRASP_And_SOLID
         }
     }
 }
+
+
+/*Patrón: expert
+Principio: SRP*/
